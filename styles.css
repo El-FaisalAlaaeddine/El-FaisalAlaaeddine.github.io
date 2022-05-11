@@ -29,11 +29,11 @@
      /* these declarations will modify both the eucation and phone number */
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color:rgb(46, 186, 221)
+    color:rgb(33, 81, 93)
 }
 .email{
     text-align: center;
-    color: blue;
+    color: rgb(13, 13, 25);
     font-style: italic;
 }
 .hobbies {
@@ -74,4 +74,22 @@ font-size: 110%;
     /* the text in the table will be centered and the border will be dotted */
     margin-top: 5%;
     margin-left: 40%;
+}
+
+.division{
+    background-image: url(light-sky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.languages{
+    font-size: x-large;
+    color: rgb(58, 224, 208);
+}
+.programming-languages{
+    font-size: x-large;
+    color: rgb(53, 226, 174);
+}
+.Projects{
+    font-size: x-large;
+    color: rgb(53, 226, 174);
 }
